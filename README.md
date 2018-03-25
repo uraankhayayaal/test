@@ -43,7 +43,7 @@ DIRECTORY STRUCTURE
 4.    Приложите подробную инструкцию по развертыванию проекта
 ```
 
-DIRECTORY STRUCTURE
+INNSTALLATION
 -------------------
 
 - php yii migrate
